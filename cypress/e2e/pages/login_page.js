@@ -18,4 +18,4 @@ class LoginPage {
         cy.get(LoginElements.btnEnter()).click()
 }
 
-}
+}export default LoginPage;
